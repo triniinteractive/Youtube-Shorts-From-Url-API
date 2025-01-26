@@ -86,7 +86,7 @@ Parameters:
 
 Example Request:
 
-GET /process_video?url=https://www.youtube.com/watch?v=exampleID&title=My+Video
+GET /process_video?url=https://www.youtube.com/watch?v=exampleID
 
 Response:
 
