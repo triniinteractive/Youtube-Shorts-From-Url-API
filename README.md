@@ -1,4 +1,4 @@
-# YouTube URL to Shorts API
+# YouTube Shorts From Url API
 
 This API is designed for YouTube content creators to process videos into engaging short clips. It uses advanced AI analysis to identify viral-worthy sections of videos and supports transcript generation, video trimming, and face tracking.
 Features
