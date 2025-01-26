@@ -140,7 +140,7 @@ def analyze_transcript_with_gpt(transcript):
             continue
     
     # Sort all sections by virality score
-    all_sections.sort(key=lambda x: x['virality_score'], reverse=True)
+    all_sections.sort(key=lambda x: x['start_time'], reverse=True)
     return all_sections
 
 def find_viral_sections(transcript, min_duration=30, max_duration=180):
